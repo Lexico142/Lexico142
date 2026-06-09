@@ -40,7 +40,7 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexico142&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Lexico142" />
+  <img src="https://streak-stats.demolab.com?user=Lexico142&theme=radical&hide_border=true" alt="Estadísticas de Racha de Lexico142" />
 </p>
 
 ---
